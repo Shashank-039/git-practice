@@ -1,5 +1,9 @@
 def greet(name):
     print("Hello,", name)
+def addition(a,b):
+return a+b
+b = addition(2,4):
+print(b)
 
 greet("Preethi")
 # Greeting function added
